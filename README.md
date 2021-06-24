@@ -1,2 +1,4 @@
 # Naive-Bayes-from-Scratch-Toy-Example
-This is a toy example using Naive Bayes. The program below is not novel, but this is a great way to learn how to do machine learning without additional modules. 
+<p>This is a toy example using Naive Bayes. The program below is not novel, but this is a great way to learn how to do machine learning without additional modules.</p>
+<p>Let's say we have four people who reviewed movies the liked and disliked marked by 0 for dislike and 1 for like as well as Y for like and N for dislike of a target movie. Then we get a fifth person who has given likes and dislikes for each of the three movies, but we don't know what that person's review for a target movie is. We want to predict whether that fifth movie reviewer will give Y or N for a target movie; thus we use Naive Bayes from scratch--no modules such as Sklearn and such--because we want to learn how Naive Bayes ticks.</p>
+<p>I try to explain in plain English how this works from scratch as a layman, so, hopefully, others might enjoy grasping how Naive Bayes actually works like me.</p>
